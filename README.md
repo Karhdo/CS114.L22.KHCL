@@ -6,9 +6,10 @@ CS114.L22 - MÁY HỌC - MACHINE LEARNING
 - Lớp: KHCL2019.2
 - Sở thích: Code, Tennis, Đá bóng
 # Thành viên nhóm:
-- Đỗ Trọng Khánh - 19521676 - CS114.L22.KHCL
-- Võ Phạm Duy Đức - 19521383 - CS114.L22.KHCL
-- Trịnh Công Danh - 19521326 - CS114.L21.KHCL
+| STT | Họ tên | MSSV | Vai trò | Email | Github |
+| 1 | Đỗ Trọng Khánh | 19521676 | Nhóm trưởng | *19521676@gm.uit.edu.vn* | [trong-khanh-1109](https://github.com/trong-khanh-1109)
+| 2 | Võ Phạm Duy Đức | 19521383 | Thành viên | *19521383@gm.uit.edu.vn* | [ducducqn123](https://github.com/ducducqn123) 
+| 3 | Trịnh Công Danh | 19521326 | Thành viên | *19521326@gm.uit.edu.vn* |
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
 * **Mã môn học:** CS114
