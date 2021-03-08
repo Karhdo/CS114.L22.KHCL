@@ -7,6 +7,6 @@ CS114.L22 - MÁY HỌC - MACHINE LEARNING
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
 * **Mã môn học:** CS114
-* **Mã lớp:** CS114.L22
+* **Mã lớp:** CS114.L22.KHCL
 * **Năm học:** HK2 (2020 - 2021)
 * Giảng viên: Phạm Nguyễn Trường An và Lê Đình Duy
