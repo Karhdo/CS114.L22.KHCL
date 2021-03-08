@@ -6,6 +6,7 @@ CS114.L22 - MÁY HỌC - MACHINE LEARNING
 - Lớp: KHCL2019.2
 - Sở thích: Code, Tennis, Đá bóng
 # Thành viên nhóm:
+<a name="thanhvien"></a>
 | STT | Họ tên | MSSV | Vai trò | Email | Github |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Đỗ Trọng Khánh | 19521676 | Nhóm trưởng | *19521676@gm.uit.edu.vn* | [trong-khanh-1109](https://github.com/trong-khanh-1109) |
