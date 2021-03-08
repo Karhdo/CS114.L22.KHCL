@@ -1,6 +1,6 @@
 # CS114.L22.KHCL
 CS114.L22 - MÁY HỌC - MACHINE LEARNING
-#Giới thiệu bản thân
+# Giới thiệu bản thân
 Họ và Tên: Đỗ Trọng Khánh
 MSSV: 19521676
 Lớp: KHCL2019.2
