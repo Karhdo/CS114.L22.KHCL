@@ -6,12 +6,11 @@ CS114.L22 - MÁY HỌC - MACHINE LEARNING
 - Lớp: KHCL2019.2
 - Sở thích: Code, Tennis, Đá bóng
 # Thành viên nhóm:
-<a name="thanhvien"></a>
-| STT | Họ tên | MSSV | Vai trò | Email | Github |
+| STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
-| 1 | Đỗ Trọng Khánh | 19521676 | Nhóm trưởng | *19521676@gm.uit.edu.vn* | [trong-khanh-1109](https://github.com/trong-khanh-1109) |
-| 2 | Võ Phạm Duy Đức | 19521383 | Thành viên | *19521383@gm.uit.edu.vn* | [ducducqn123](https://github.com/ducducqn123) |
-| 3 | Trịnh Công Danh | 19521326 | Thành viên | *19521326@gm.uit.edu.vn* | |
+| 1 | Cao Hưng Phú | 19520214 | Nhóm trưởng | *19520214@gm.uit.edu.vn* | [caohungphu](https://github.com/caohungphu) | [caohungphuvn](https://www.facebook.com/caohungphuvn) |
+| 2 | Nguyễn Thành Công | 19521294 | Thành viên | *19521294@gm.uit.edu.vn* | [Tfushimura](https://github.com/Tfushimura) | [cong.troller](https://www.facebook.com/cong.troller) |
+| 3 | Trần Huỳnh Kỳ Anh | 19521216 | Thành viên | *19521216@gm.uit.edu.vn* | [tranhuynhkyanh](https://github.com/tranhuynhkyanh) | [tranhuynhkyanh](https://www.facebook.com/tranhuynhkyanh) |
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** MÁY HỌC - MACHINE LEARNING
 * **Mã môn học:** CS114
