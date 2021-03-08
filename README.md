@@ -1,10 +1,10 @@
 # CS114.L22.KHCL
 CS114.L22 - MÁY HỌC - MACHINE LEARNING
 # Giới thiệu bản thân
-Họ và Tên: Đỗ Trọng Khánh
-MSSV: 19521676
-Lớp: KHCL2019.2
-Sở thích: Code, Tennis, Đá bóng
+- Họ và Tên: Đỗ Trọng Khánh
+- MSSV: 19521676
+- Lớp: KHCL2019.2
+- Sở thích: Code, Tennis, Đá bóng
 # Thành viên nhóm:
 - Đỗ Trọng Khánh - 19521676 - CS114.L22.KHCL
 - Võ Phạm Duy Đức - 19521383 - CS114.L22.KHCL
