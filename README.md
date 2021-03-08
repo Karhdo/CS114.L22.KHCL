@@ -9,4 +9,4 @@ CS114.L22 - MÁY HỌC - MACHINE LEARNING
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.L22
 * **Năm học:** HK2 (2020 - 2021)
-* **Giảng viên: Phạm Nguyễn Trường An và Lê Đình Duy
+* Giảng viên: Phạm Nguyễn Trường An và Lê Đình Duy
