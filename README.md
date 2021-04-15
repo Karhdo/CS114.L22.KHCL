@@ -1,5 +1,5 @@
-# CS114.L22.KHCL
-CS114.L22 - MÁY HỌC - MACHINE LEARNING
+# CS114.L22.KHCL AND CS114.L21.KHCL
+CS114.L22.KHCL AND CS114.L21.KHCL - MÁY HỌC - MACHINE LEARNING
 # Thành viên nhóm:
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
