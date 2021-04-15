@@ -10,25 +10,28 @@
     - 
 **2. Phân loại thuật toán Machine Learning**
 
-    **1. Phân nhóm dựa trên phương thức học**
-        ####	Supervised Learning (Học có giám sát)
-        #####	Classification (Phân loại)
-        #####	Regression (Hồi quy)
-        ####	Unsupervised Learning (Học không giám sát)
-        #####	Clustering (phân nhóm)
-        #####   Association
-        ####	Semi-Supervised Learning (Học bán giám sát)
-        ####	Reinforcement Learning (Học Củng Cố)
-**2. Phân nhóm dựa trên chức năng**
-####	Regression Algorithms
-####	Classification Algorithms
-####	Instance-based Algorithms
-####	Regularization Algorithms
-####	Bayesian Algorithms
-####	Clustering Algorithms
-####	Artificial Neural Network Algorithms
-####	Dimensionality Reduction Algorithms
-####	Ensemble Algorithms
+   **1. Phân nhóm dựa trên phương thức học**
+   
+       	- Supervised Learning (Học có giám sát)
+        - Classification (Phân loại)
+        - Regression (Hồi quy)
+        - Unsupervised Learning (Học không giám sát)
+        - Clustering (phân nhóm)
+        - Association
+        - Semi-Supervised Learning (Học bán giám sát)
+        - Reinforcement Learning (Học Củng Cố)
+        
+   **2. Phân nhóm dựa trên chức năng**
+
+        - Regression Algorithms
+        - Classification Algorithms
+        - Instance-based Algorithms
+        - Regularization Algorithms
+        - Bayesian Algorithms
+        - Clustering Algorithms
+        - Artificial Neural Network Algorithms
+        - Dimensionality Reduction Algorithms
+        - Ensemble Algorithms
 
 **3. Data là phần chính của ML, hãy giải thích sự liên hệ giữa Big Data và Deep Learning**
 
