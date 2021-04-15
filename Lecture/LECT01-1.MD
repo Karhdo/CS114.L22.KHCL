@@ -38,7 +38,7 @@
 - Deep learning yêu cầu rất nhiều dữ liệu, vì vậy ở những năm gần đây với sự phát triển của khoa học kĩ thuật thì dữ liệu ngày càng lớn và càng dễ để thu thập vì vậy chúng ta có khái niệm về Big Data.
 
 **4. Các ứng dụng**
-- (Trang 1)[https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/4b17ec4a58a531849df987f4c0491b9f6e026ae4/Application%20Machine%20Learning/Trang_1.jpg]
-- (Trang 2)[https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/4b17ec4a58a531849df987f4c0491b9f6e026ae4/Application%20Machine%20Learning/Trang_2.jpg]
-- (Trang 3)[https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/4b17ec4a58a531849df987f4c0491b9f6e026ae4/Application%20Machine%20Learning/Trang_3.jpg]
+- [Trang 1] (https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/4b17ec4a58a531849df987f4c0491b9f6e026ae4/Application%20Machine%20Learning/Trang_1.jpg)
+- (Trang 2) [https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/4b17ec4a58a531849df987f4c0491b9f6e026ae4/Application%20Machine%20Learning/Trang_2.jpg]
+- (Trang 3) [https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/4b17ec4a58a531849df987f4c0491b9f6e026ae4/Application%20Machine%20Learning/Trang_3.jpg]
 
