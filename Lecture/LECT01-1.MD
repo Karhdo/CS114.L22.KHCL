@@ -10,15 +10,15 @@
     - 
 **2. Phân loại thuật toán Machine Learning**
 
-**1. Phân nhóm dựa trên phương thức học**
-####	Supervised Learning (Học có giám sát)
-#####	Classification (Phân loại)
-#####	Regression (Hồi quy)
-####	Unsupervised Learning (Học không giám sát)
-#####	Clustering (phân nhóm)
-#####   Association
-####	Semi-Supervised Learning (Học bán giám sát)
-####	Reinforcement Learning (Học Củng Cố)
+    **1. Phân nhóm dựa trên phương thức học**
+        ####	Supervised Learning (Học có giám sát)
+        #####	Classification (Phân loại)
+        #####	Regression (Hồi quy)
+        ####	Unsupervised Learning (Học không giám sát)
+        #####	Clustering (phân nhóm)
+        #####   Association
+        ####	Semi-Supervised Learning (Học bán giám sát)
+        ####	Reinforcement Learning (Học Củng Cố)
 **2. Phân nhóm dựa trên chức năng**
 ####	Regression Algorithms
 ####	Classification Algorithms
