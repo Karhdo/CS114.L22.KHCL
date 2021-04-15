@@ -7,7 +7,7 @@
 3. Phân loại các thuật toán ML
 3. Các ứng dụng minh hoạ
 4. Tại sao AI, ML (Machine Learning), DL (Deep Learning) đang được quan tâm rất nhiều trong những năm gần đây?
-File answer question:
+* File answer question:
 
 **LECT01-2: CÁC HƯỚNG NGHIÊN CỨU**
 
