@@ -10,7 +10,7 @@
 **2. Phân loại thuật toán Machine Learning**
 
 1. Phân nhóm dựa trên phương thức học
-######Supervised Learning (Học có giám sát)
+######Supervised Learning (Học có giám sát) \n
 ######Classification (Phân loại)
 ######Regression (Hồi quy)
 ######Unsupervised Learning (Học không giám sát)
