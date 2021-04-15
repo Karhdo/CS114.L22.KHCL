@@ -38,4 +38,7 @@
 - Deep learning yêu cầu rất nhiều dữ liệu, vì vậy ở những năm gần đây với sự phát triển của khoa học kĩ thuật thì dữ liệu ngày càng lớn và càng dễ để thu thập vì vậy chúng ta có khái niệm về Big Data.
 
 **4. Các ứng dụng**
+[Application Machine Learning/Trang_1.jpg]
+[Application Machine Learning/Trang_2.jpg]
+[Application Machine Learning/Trang_3.jpg]
 
