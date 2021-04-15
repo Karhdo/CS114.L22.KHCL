@@ -7,9 +7,10 @@
 -	Machine Learning
     - Programing a computer to learn just like you learn through trial and error, and lots of practice
     - Machine learning is using **data** to **answer question**
+    - 
 **2. Phân loại thuật toán Machine Learning**
 
-###	1. Phân nhóm dựa trên phương thức học
+**1. Phân nhóm dựa trên phương thức học**
 ####	Supervised Learning (Học có giám sát)
 #####	Classification (Phân loại)
 #####	Regression (Hồi quy)
@@ -18,7 +19,7 @@
 #####   Association
 ####	Semi-Supervised Learning (Học bán giám sát)
 ####	Reinforcement Learning (Học Củng Cố)
-###	2. Phân nhóm dựa trên chức năng
+**2. Phân nhóm dựa trên chức năng**
 ####	Regression Algorithms
 ####	Classification Algorithms
 ####	Instance-based Algorithms
