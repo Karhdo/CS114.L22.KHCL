@@ -12,3 +12,5 @@ Yêu cầu code: tạo một notebook colab với các đoạn code và chú th�
 2. Ủa mà nhìn vào đâu để kết luận là tốt hay không?
 3. Nếu không tốt thì lý do tại sao?
 4. Nếu tốt thì tiếp theo có thể dùng model digits recognition này vào các bài toán phức tạp hơn như nhận dạng biển số nhà không?
+
+Bài làm: [Assignments collab_01]()
