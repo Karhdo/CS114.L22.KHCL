@@ -13,4 +13,4 @@ Yêu cầu code: tạo một notebook colab với các đoạn code và chú th�
 3. Nếu không tốt thì lý do tại sao?
 4. Nếu tốt thì tiếp theo có thể dùng model digits recognition này vào các bài toán phức tạp hơn như nhận dạng biển số nhà không?
 
-**Bài làm:** [Assignments collab_01](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/1c2b0fa75fc65078c67f50f7d531798ac9cabcf7/Assignments%20Collab/Collab_01.ipynb)
+**Bài làm:** [Assignments colab_01]()
