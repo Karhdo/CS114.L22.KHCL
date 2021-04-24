@@ -13,4 +13,4 @@ Yêu cầu code: tạo một notebook colab với các đoạn code và chú th�
 3. Nếu không tốt thì lý do tại sao?
 4. Nếu tốt thì tiếp theo có thể dùng model digits recognition này vào các bài toán phức tạp hơn như nhận dạng biển số nhà không?
 
-**Bài làm:** [Assignments colab_01](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/760e02eb6b50a07f19b5c00931b4c301e82d21f7/Assignments%20Colaboratory/Colab_01.ipynb)
+ - [x] [RECOGNIZING HAND-WRITTEN DIGITS](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/d4386fcfc8a0a3e993da1ca53e63c52165e33ed1/Assignments%20Colaboratory/Colab_01.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jpcB2WAmeKvAs0XwsEX3pF_yhfPQngJZ)
