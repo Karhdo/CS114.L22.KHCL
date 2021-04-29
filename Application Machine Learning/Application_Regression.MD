@@ -1,6 +1,6 @@
 # Ứng dụng thực tế sử dụng Regression
 
-**Bài toán 1:** Dự đoán điểm chuẩn ngành Khoa Học Máy Tính của trường Đại học Công Nghệ Thông Tin vào năm 2021 dựa vào điểm thi đại học.
+**Bài toán 1: Dự đoán điểm chuẩn ngành Khoa Học Máy Tính của trường Đại học Công Nghệ Thông Tin vào năm 2021 dựa vào điểm thi đại học.**
 - Input: Điểm trung bình của các tổ hợp (Toán Văn Anh, Toán Lý Hoá, ...) của các năm trước.
 - Output: Điểm chuẩn ngành Khoa học máy tính của trường Đại học Công Nghệ Thông Tin vào năm đó.
 - Thu thập đata: 
@@ -11,7 +11,7 @@
   + Tổng hợp các điểm trung bình của từng môn theo từng năm.
   + Tính trung bình các tổ hợp mà ngành Khoa học máy tính xét.
 
-**Bài toán 2:** Bài toán dự đoán số người có nguy cơ tử vong cao vì dịch covid tại Việt Nam.
+**Bài toán 2: Bài toán dự đoán số người có nguy cơ tử vong cao vì dịch covid tại Việt Nam.**
 - Input:
   + Số lượng người bị nhiễm covid tại Việt Nam (int).
   + Số tuổi của người bị nhiễm covid (int).
