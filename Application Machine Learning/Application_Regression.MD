@@ -25,7 +25,7 @@
   + Xóa các dòng mà thuộc tính không mang giá trị.
   + Loại bỏ các thông tin mà không làm ảnh hưởng tới output (tên, giới tính).
 
-**Bài toán 3: Dự đoán doanh thu phim
+**Bài toán 3: Dự đoán doanh thu phim.**
 - Input: Doanh thu và ngân sách của các bộ phim.
 - Output: Doanh thu của bộ phim khi biết chi phí sản xuất
 - Cách thu thập data: 
@@ -35,7 +35,7 @@
 	+ Làm sạch dữ liệu, có những phim có ngân sách nhưng lại không có doanh thu (Doanh tu = 0) vì nhiều vấn đề khác nhau như phim chưa phát hành hay đã hoàn thành nhưng chưa được công chiếu,… Vì vậy chúng ta cần loại bỏ những dữ liệu này để không làm dữ liệu của ta bị thiếu sót.
 	+ Phân tách những dữ liệu cần thiết cũng như trực quan hóa chúng thông qua các biểu đồ.
 
-**Bài toán 4: Dự đoán giá tiền khi đi Grab
+**Bài toán 4: Dự đoán giá tiền khi đi Grab.**
 - Input: Số km người dùng đi.
 - Output: Số tiền tương ứng với input.
 - Cách thu thập data: Dựa trên số km và giá tiền tương ứng của các chuyến trước đó.
