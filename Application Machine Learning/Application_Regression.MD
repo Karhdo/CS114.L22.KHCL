@@ -6,6 +6,7 @@
 - Thu thập đata: 
   + Lấy dữ liệu trên các trang mạng đã thống kê sẵn dưới dạng biểu đồ( Ví dụ [Phổ điểm thi THPT quốc gia 2020](https://hoatieu.vn/pho-diem-thi-thpt-quoc-gia-203316#:~:text=sinh%20(kh%E1%BB%91i%20B)-,K%E1%BA%BFt%20qu%E1%BA%A3%20ph%C3%A2n%20t%C3%ADch%20%C4%91i%E1%BB%83m%20thi%20theo%20t%E1%BB%95%20h%E1%BB%A3p%203,%C4%91%E1%BA%A1t%20nh%E1%BA%A5t%20l%C3%A0%2022%20%C4%91i%E1%BB%83m.))
   + Lấy dữ liệu trên các trang báo online có uy tín (Ví dụ [Phổ điểm các môn thi tốt nghiệp THPT 2020](https://tuoitre.vn/pho-diem-cac-mon-thi-tot-nghiep-thpt-2020-tap-trung-o-khoang-5-5-7-5-diem-20200808195948919.htm))
+  + Lấy điểm chuẩn của ngành Khoa học máy tính tại trang tuyển sinh UIT
 - Xử lí dữ liệu:
   + Loại bỏ các điểm dữ liệu bị trống có thể do bỏ thi hoặc do lý do nào khác.
   + Tổng hợp các điểm trung bình của từng môn theo từng năm.
