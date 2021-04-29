@@ -8,4 +8,4 @@
   + Mỗi nhóm tìm dăm ba ví dụ về bài toán regression ***TRONG THỰC TẾ***
   + Ghi rõ input, output và cách thu thập + xử lý data, commit vào github repository và dẫn link lên đây.
   + Có thể ghi ra giấy rồi chụp hình hoặc viết ở dạng Markdown.
-- Bài làm: [Application Regression]()
+- Bài làm: [Application Regression](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/e431d9961ceff22dafd5cc95de72548e71306dd4/Application%20Machine%20Learning/Application_Regression.MD)
