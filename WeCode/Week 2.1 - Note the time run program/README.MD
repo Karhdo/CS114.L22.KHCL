@@ -22,3 +22,7 @@
 ### 5. Reshape matrix
   - Đề bài: [Reshape_matrix_1](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/2159de98b7f5fcf6087bcd924fdfb9f36a6d28b5/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Reshape_matrix_1.png) & [Reshape_matrix_2](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/2159de98b7f5fcf6087bcd924fdfb9f36a6d28b5/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Reshape_matrix_2.png)
   - Code: [Reshape matrix](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/2159de98b7f5fcf6087bcd924fdfb9f36a6d28b5/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Reshape_matrix.py)
+
+### 6. Online game
+  - Đề bài: [Online game](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/7d9feddd4de458cc3f9aebb719e3dd665ed96d2a/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Online_game.txt)
+  - Code: [Online game](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/7d9feddd4de458cc3f9aebb719e3dd665ed96d2a/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Online_game.py)
