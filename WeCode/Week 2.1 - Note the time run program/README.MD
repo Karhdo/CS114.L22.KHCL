@@ -13,3 +13,8 @@
 
   - Đề bài: [Merge sorted array](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/497bcb63bfae67a065ab8352647e6faf84e2c143/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Merge_sorted_array.txt)
   - Code: [Merge sorted array](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/497bcb63bfae67a065ab8352647e6faf84e2c143/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Merge_sorted_array.py)
+
+### 4. ROI (region of interest)
+
+  - Đề bài: [ROI_(region of interest)_1](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/410d05613a3ba81b700b5ea34d5bc0302a04a55e/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/ROI_(region%20of%20interest)_1.png) & [ROI_(region of interest)_2](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/410d05613a3ba81b700b5ea34d5bc0302a04a55e/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/ROI_(region%20of%20interest)_2.png)
+  - Code: [ROI_(region of interest)](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/410d05613a3ba81b700b5ea34d5bc0302a04a55e/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/ROI_(region%20of%20interest).py)
