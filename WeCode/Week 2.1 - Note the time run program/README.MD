@@ -8,3 +8,8 @@
   
   - Đề bài: [Thêm và xoá_1](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/1d6d1c12731ab4609ec5597d0221c0d2196473da/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/The%CC%82m_va%CC%80_xoa%CC%81.png) & [Thêm và xoá_2](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/1d6d1c12731ab4609ec5597d0221c0d2196473da/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Th%C3%AAm_v%C3%A0_xo%C3%A1.txt)
   - Code: [Thêm và xoá](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/1d6d1c12731ab4609ec5597d0221c0d2196473da/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Th%C3%AAm_v%C3%A0_xo%C3%A1.py)
+
+### 3. Merge sorted array
+
+  - Đề bài: [Merge sorted array](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/497bcb63bfae67a065ab8352647e6faf84e2c143/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Merge_sorted_array.txt)
+  - Code: [Merge sorted array](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/497bcb63bfae67a065ab8352647e6faf84e2c143/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Merge_sorted_array.py)
