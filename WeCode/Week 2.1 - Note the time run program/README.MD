@@ -26,3 +26,7 @@
 ### 6. Online game
   - Đề bài: [Online game](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/7d9feddd4de458cc3f9aebb719e3dd665ed96d2a/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Online_game.txt)
   - Code: [Online game](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/7d9feddd4de458cc3f9aebb719e3dd665ed96d2a/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Online_game.py)
+
+### 7. Online game 2
+  - Đề bài: [Online game 2](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/d35b97d8fa261d1966ea9dee34465b1d1b27ffc8/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Online_game_2.txt)
+  - Code: [Online game 2](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/d35b97d8fa261d1966ea9dee34465b1d1b27ffc8/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Online_game_2.py)
