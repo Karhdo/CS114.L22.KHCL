@@ -18,3 +18,7 @@
 
   - Đề bài: [ROI_(region of interest)_1](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/410d05613a3ba81b700b5ea34d5bc0302a04a55e/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/ROI_(region%20of%20interest)_1.png) & [ROI_(region of interest)_2](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/410d05613a3ba81b700b5ea34d5bc0302a04a55e/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/ROI_(region%20of%20interest)_2.png)
   - Code: [ROI_(region of interest)](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/410d05613a3ba81b700b5ea34d5bc0302a04a55e/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/ROI_(region%20of%20interest).py)
+
+### 5. Reshape matrix
+  - Đề bài: [Reshape_matrix_1](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/2159de98b7f5fcf6087bcd924fdfb9f36a6d28b5/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Reshape_matrix_1.png) & [Reshape_matrix_2](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/2159de98b7f5fcf6087bcd924fdfb9f36a6d28b5/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Reshape_matrix_2.png)
+  - Code: [Reshape matrix](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/2159de98b7f5fcf6087bcd924fdfb9f36a6d28b5/WeCode/Week%202.1%20-%20Note%20the%20time%20run%20program/Reshape_matrix.py)
