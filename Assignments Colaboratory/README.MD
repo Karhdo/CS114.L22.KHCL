@@ -15,14 +15,14 @@ Yêu cầu code: tạo một notebook colab với các đoạn code và chú th�
 
  - [x] [RECOGNIZING HAND-WRITTEN DIGITS](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/d4386fcfc8a0a3e993da1ca53e63c52165e33ed1/Assignments%20Colaboratory/Colab_01.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jpcB2WAmeKvAs0XwsEX3pF_yhfPQngJZ)
  
- # Bài tập colab số 02. PREDICT EXECUTION TIME OF A PROGRAM WITH GIVEN THE NUMBERS OF INPUT
-
+ # Bài tập colab số 02. Predict execution time of a program with given the numbers of input
+ 
 - Dữ liệu train: https://cs.uit.edu.vn/data2.txt
 - Dữ liệu test: https://cs.uit.edu.vn/data3.txt
 
 - [x] [PREDICT EXECUTION TIME OF A PROGRAM WITH GIVEN THE NUMBERS OF INPUT](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/1254a56d76ad8c7afee4dd086ef7577ea8d1d1b9/Assignments%20Colaboratory/Colab_02.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18_nQt37VcN7FEk1NqGiFPHV4Ea6ZOImX?authuser=1&hl=en#scrollTo=gLFe_OFDlpxm)
 
-# Bài tập colab số 03. PREDICT FINAL SCORE OF IT001
+# Bài tập colab số 03. Predict the final grade of IT001 students based on the results of wecode practice
 
 - Cho dataset gồm 02 file. Là kết quả thực hành của hơn 1500 sinh viên IT001 và kết quả môn học IT001 của hơn 900 sinh viên trong các sinh viên này. 
 Hãy tìm cách dự đoán điểm thi cuối kỳ cho các sinh viên IT001 còn thiếu.
@@ -54,4 +54,5 @@ Hãy tìm cách dự đoán điểm thi cuối kỳ cho các sinh viên IT001 c�
 - [File score_training](https://drive.google.com/file/d/1dsiSt6TuPpgr1imkvvHzWfBJU7-RGT4X/view?usp=sharing)
 
 - [x] [Scatter plot vẽ mối liên hệ giữa thông số tính được từ wecode.csv đến điểm thi cuối kỳ của sinh viên](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/a81062ee166814347e2b3adbd531bffe28635af6/Assignments%20Colaboratory/Colab_03.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12WlmSzp9KTUJKILNtQ02GWLIN9rniNNW?authuser=1)
+
 - [x] [Dự đoán điểm thi cuối kỳ IT001 từ quá trình nộp bài wecode](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/a81062ee166814347e2b3adbd531bffe28635af6/Assignments%20Colaboratory/Colab_03_1.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N1SUiSd9rbLtclEAQ3kQjuJ_ZQjs2xof?authuser=1)
