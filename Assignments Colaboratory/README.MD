@@ -24,5 +24,34 @@ Yêu cầu code: tạo một notebook colab với các đoạn code và chú th�
 
 # Bài tập colab số 03. PREDICT FINAL SCORE OF IT001
 
+- Cho dataset gồm 02 file. Là kết quả thực hành của hơn 1500 sinh viên IT001 và kết quả môn học IT001 của hơn 900 sinh viên trong các sinh viên này. 
+Hãy tìm cách dự đoán điểm thi cuối kỳ cho các sinh viên IT001 còn thiếu.
+- File wecode.csv gồm các thông tin: 
+
+     "id"            : id của lần nộp bài
+     "assignment_id" : id của assignment
+     "problem_id"    : id của problem
+     "user_id"       : id của user **cái này quan trọng nè**
+     "is_final"      : đây có phải là lần
+     "status"        : submission này đang dược chấm (PENDING), đã được chấm (SCORE) hay bị compilation-error
+     "pre_score"     : Số phần trăm test đúng, làm tròn đến 2 chữ số thập phân và nhân cho 100.
+     "coefficient"   : Hệ số nộp bài trễ
+     "file_name"     : không quan trọng
+     "language_id"   : language_id sẽ luôn là C++
+     "created_at"    : Thời điểm nộp bài
+     "updated_at"    : Thời điểm hệ thống cập nhật kết quả chấm cho bài nộp đó
+
+- File score_training.csv gồm các thông tin
+     id  : user id sẽ tương ứng với user id của file wecode.csv
+     QT  : Điểm quá trình
+     GK  : Điểm giữa kỳ
+     TH  : Điểm thực hành
+     CK  : Điểm cuối kỳ
+     TBM : Trung bình môn it001
+     TBTL: Trung bình tích lũy
+
 - [wecode.csv](https://drive.google.com/file/d/1X5pBfb94tpaCUGtB7gHDFXPzXv4L8Gnr/view?usp=sharing)
 - [score_training](https://drive.google.com/file/d/1dsiSt6TuPpgr1imkvvHzWfBJU7-RGT4X/view?usp=sharing)
+
+- [x] [Scatter plot vẽ mối liên hệ giữa những thông số có thể tính được từ dữ liệu wecode.csv đến điểm thi cuối kỳ của sinh viên](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/a81062ee166814347e2b3adbd531bffe28635af6/Assignments%20Colaboratory/Colab_03.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12WlmSzp9KTUJKILNtQ02GWLIN9rniNNW?authuser=1)
+- [x] [Dự đoán điểm thi cuối kỳ IT001 từ quá trình nộp bài wecode](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/a81062ee166814347e2b3adbd531bffe28635af6/Assignments%20Colaboratory/Colab_03_1.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N1SUiSd9rbLtclEAQ3kQjuJ_ZQjs2xof?authuser=1)
