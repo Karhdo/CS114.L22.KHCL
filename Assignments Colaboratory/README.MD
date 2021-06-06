@@ -50,8 +50,8 @@ Hãy tìm cách dự đoán điểm thi cuối kỳ cho các sinh viên IT001 c�
      - TBM : Trung bình môn it001
      - TBTL: Trung bình tích lũy
 
-- [wecode.csv](https://drive.google.com/file/d/1X5pBfb94tpaCUGtB7gHDFXPzXv4L8Gnr/view?usp=sharing)
-- [score_training](https://drive.google.com/file/d/1dsiSt6TuPpgr1imkvvHzWfBJU7-RGT4X/view?usp=sharing)
+- [File wecode.csv](https://drive.google.com/file/d/1X5pBfb94tpaCUGtB7gHDFXPzXv4L8Gnr/view?usp=sharing)
+- [File score_training](https://drive.google.com/file/d/1dsiSt6TuPpgr1imkvvHzWfBJU7-RGT4X/view?usp=sharing)
 
 - [x] [Scatter plot vẽ mối liên hệ giữa thông số tính được từ wecode.csv đến điểm thi cuối kỳ của sinh viên](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/a81062ee166814347e2b3adbd531bffe28635af6/Assignments%20Colaboratory/Colab_03.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12WlmSzp9KTUJKILNtQ02GWLIN9rniNNW?authuser=1)
 - [x] [Dự đoán điểm thi cuối kỳ IT001 từ quá trình nộp bài wecode](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/a81062ee166814347e2b3adbd531bffe28635af6/Assignments%20Colaboratory/Colab_03_1.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1N1SUiSd9rbLtclEAQ3kQjuJ_ZQjs2xof?authuser=1)
