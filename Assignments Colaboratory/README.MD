@@ -21,3 +21,8 @@ Yêu cầu code: tạo một notebook colab với các đoạn code và chú th�
 - Dữ liệu test: https://cs.uit.edu.vn/data3.txt
 
 - [x] [PREDICT EXECUTION TIME OF A PROGRAM WITH GIVEN THE NUMBERS OF INPUT](https://github.com/trong-khanh-1109/CS114.L22.KHCL/blob/1254a56d76ad8c7afee4dd086ef7577ea8d1d1b9/Assignments%20Colaboratory/Colab_02.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18_nQt37VcN7FEk1NqGiFPHV4Ea6ZOImX?authuser=1&hl=en#scrollTo=gLFe_OFDlpxm)
+
+# Bài tập colab số 03. PREDICT FINAL SCORE OF IT001
+
+- [wecode.csv](https://drive.google.com/file/d/1X5pBfb94tpaCUGtB7gHDFXPzXv4L8Gnr/view?usp=sharing)
+- [score_training](https://drive.google.com/file/d/1dsiSt6TuPpgr1imkvvHzWfBJU7-RGT4X/view?usp=sharing)
