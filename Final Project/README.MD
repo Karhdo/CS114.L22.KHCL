@@ -24,7 +24,7 @@ Nhận dạng chữ viết tay (Handwriting recognition - HWR) là khả năng m
     - Nhóm sẽ gọp chung 30 mẫu dữ liệu với nhóm của bạn Đặng Văn Minh --> data train: là 60 mẫu, còn lại nhóm sẽ giữ để làm data test riêng cho nhóm.
     - Nhóm sẽ chuẩn bị sẵn các mầu tờ giấy và sẽ nhờ những tình nguyện viên viết những con chữ vào ô tờ giấy như **Hình 1**, sau đó nhóm sẽ đem scan thành những tấm hình như hình **Hình 2**
 
-**Hình 1: Mẫu thu thập dữ liệu** ----------------- **Hình 2: Ảnh đã được scan**
+    **Hình 1: Mẫu thu thập dữ liệu** ----------------- **Hình 2: Ảnh đã được scan**
 
 ![](Image/data.jpg)   ![](Image/scan_data.jpg)
 
