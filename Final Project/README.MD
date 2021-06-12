@@ -19,6 +19,6 @@ Nhận dạng chữ viết tay (Handwriting recognition - HWR) là khả năng m
     - Bước tiếp theo, chúng ta sẽ tiến hành tiền xử lý dữ liệu trước khi đưa vào huấn luyện mô hình phân loại chữ viết tay. Việc tiền xử lý dữ liệu là hết sức quan trọng để đảm bảo mô hình đạt được kết quả tốt
     - Chia làm 2 tập train (X_train, y_train) và test (X_test, y_test) theo tỉ lệ 80% train, 20% test.
 
-![](/Image/data.JPG)
+![](Final Project/Image/data.JPG)
 ## 3. Ứng dụng:
   - Chưa biết.
