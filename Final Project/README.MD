@@ -20,7 +20,7 @@ Nhận dạng chữ viết tay (Handwriting recognition - HWR) là khả năng m
     - Chia làm 2 tập train (X_train, y_train) và test (X_test, y_test) theo tỉ lệ 80% train, 20% test.
 
   - Cách thu thập dữ liệu:
-    - Dữ liệu thu thập từ hơn 30 người tình nguyện tại thành phố Quảng Ngãi.
+    - Dữ liệu thu thập từ hơn 30 người tình nguyện tại thành phố Quảng Ngãi và Quảng Nam.
     - Nhóm sẽ gọp chung 30 mẫu dữ liệu với nhóm của bạn Đặng Văn Minh --> data train: là 60 mẫu, còn lại nhóm sẽ giữ để làm data test riêng cho nhóm.
     - Nhóm sẽ chuẩn bị sẵn các mầu tờ giấy và sẽ nhờ những tình nguyện viên viết những con chữ vào ô tờ giấy như **Hình 1**, sau đó nhóm sẽ đem scan thành những tấm hình như hình **Hình 2**
 
