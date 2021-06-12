@@ -20,7 +20,7 @@ Nhận dạng chữ viết tay (Handwriting recognition - HWR) là khả năng m
     - Chia làm 2 tập train (X_train, y_train) và test (X_test, y_test) theo tỉ lệ 80% train, 20% test.
 
 ![](Image/data.jpg)
-![](Image/scan_data.JPG)
+![](Image/scan_data.jpg)
 
 ## 3. Ứng dụng:
   - Chưa biết.
