@@ -17,12 +17,8 @@ Nhận dạng chữ viết tay (Handwriting recognition - HWR) là khả năng m
     - Dữ liệu là yếu tố quan trọng nhất và cũng là vấn đề mà chúng ta cần quan tâm nhất. Trong quá trình xây dựng một hệ thống phân loại chữ viết tay, bước chuẩn bị và tiền xử lý dữ liệu quyết định tới thành bại của hệ thống hơn cả.
     - Với bài toán phân loại chữ viết tay bằng tiếng việt, dữ liệu ban đầu mình cần chuẩn bị là những hình ảnh được viết bằng tay.
     - Bước tiếp theo, chúng ta sẽ tiến hành tiền xử lý dữ liệu trước khi đưa vào huấn luyện mô hình phân loại chữ viết tay. Việc tiền xử lý dữ liệu là hết sức quan trọng để đảm bảo mô hình đạt được kết quả tốt
-  - Tiền xử lí:
-    - Chuẩn hóa bảng mã Unicode
-    - Chuẩn hóa kiểu gõ dấu tiếng Việt
-    - Xóa các ký tự đặc biệt: “.”, “,”, “;”, “)”,.....
-    - Đưa về chữ viết thường.
-  - Phân chia tập train:
     - Chia làm 2 tập train (X_train, y_train) và test (X_test, y_test) theo tỉ lệ 80% train, 20% test.
+
+![](/Image/data.JPG)
 ## 3. Ứng dụng:
   - Chưa biết.
