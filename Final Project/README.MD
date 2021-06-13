@@ -12,6 +12,9 @@ Nhận dạng chữ viết tay (Handwriting recognition - HWR) là khả năng m
 
 - Input: Hình ảnh gồm 1 ký tự viết tay tiếng Việt.
 - Output: Hình ảnh chữ cái tương ứng với input.
+
+![](Image/input_output.png)
+
 ## 2. Mô tả về bộ dữ liệu:
   - Thu thập dữ liệu:
     - Dữ liệu là yếu tố quan trọng nhất và cũng là vấn đề mà chúng ta cần quan tâm nhất. Trong quá trình xây dựng một hệ thống phân loại chữ viết tay, bước chuẩn bị và tiền xử lý dữ liệu quyết định tới thành bại của hệ thống hơn cả.
