@@ -26,8 +26,6 @@ Nhận dạng chữ viết tay (Handwriting recognition - HWR) là khả năng m
     - Dữ liệu thu thập từ hơn 30 người tình nguyện tại thành phố Quảng Ngãi và Quảng Nam.
     - Nhóm sẽ gọp chung 30 mẫu dữ liệu với nhóm của bạn Đặng Văn Minh --> data train: là 60 mẫu, còn lại nhóm sẽ giữ để làm data test riêng cho nhóm.
     - Nhóm sẽ chuẩn bị sẵn các mầu tờ giấy và sẽ nhờ những tình nguyện viên viết những con chữ vào ô tờ giấy như **Hình 1**
-
-    **Hình 1: Mẫu thu thập dữ liệu** 
 ![](Image/data.jpg)
 
 ## 3. Ứng dụng:
