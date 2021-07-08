@@ -1,5 +1,6 @@
 <h1 align="center"><b>ĐỀ TÀI: PHÂN LOẠI CHỮ VIẾT TAY BẰNG TIẾNG VIỆT</b></h>
 <h1 align="center"><b>LỚP: CS114.K21.KHCL AND CS114.K22.KHCL</b></h>
+
 ## Giảng viên:
 1. Lê Đình Duy
 2. Phạm Nguyễn Trường An
