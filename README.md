@@ -1,5 +1,5 @@
-<h1 align="center"><b>CS114.L22.KHCL AND CS114.L21.KHCL</b></h>
 <h1 align="center"><b>MACHINE LEARNING</b></h>
+<h1 align="center"><b>CS114.L22.KHCL AND CS114.L21.KHCL</b></h>
 
 # Thành viên nhóm:
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
