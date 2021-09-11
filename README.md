@@ -25,7 +25,7 @@
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** Phân loại chữ viết tay Tiếng Việt
-* **Thư mục:** [FinalProject](Final Project)
+* **Thư mục:** [Final Project](Final Project)
 
 <!-- Footer -->
 `Copyright © 2021`
