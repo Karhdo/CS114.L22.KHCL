@@ -25,7 +25,7 @@
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** Phân loại chữ viết tay Tiếng Việt
-* **Thư mục:** [Final Project](Final Project)
+* **Thư mục:** [Final Project](https://github.com/trong-khanh-1109/CS114.L22.KHCL/tree/main/Final%20Project)
 
 <!-- Footer -->
 `Copyright © 2021`
