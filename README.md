@@ -28,4 +28,4 @@
 * **Thư mục:** [Final Project](https://github.com/trong-khanh-1109/CS114.L22.KHCL/tree/main/Final%20Project)
 
 <!-- Footer -->
-`Copyright © 2021 - Đỗ Trọng Khánh`
+<p align='center'>Copyright © 2021 - Đỗ Trọng Khánh</p>
